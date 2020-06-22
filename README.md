@@ -1,10 +1,7 @@
-# Funcionario Campany SA .
+
 Projeto feito no curso de Java avançado na fundação Bradesco -  escola virtual.
 Estrutura
 
-<br>
-[Fundação bradesco | escola vitual][Escola Vitual]
-[Escola Vitual]: https://www.ev.org.br/curso/informatica/desenvolvimento-de-sistemas/linguagem-de-programacao-java-avancado?return=/cursos/informatica&cst=533 "Fundação bradesco "
 <br>
 ## Tela principal.
 ![tela principal](https://i.imgur.com/CFYFNHq.png "tela principal")
